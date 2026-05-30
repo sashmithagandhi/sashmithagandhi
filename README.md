@@ -32,6 +32,12 @@
 
 ---
 
+## 🤝 Open Source Contributions
+- 🔧 [pyfenn/fenn](https://github.com/pyfenn/fenn) — Added dark mode 
+support to dashboard frontend
+
+---
+
 ## 🏆 Certifications
 
 ""IBM SkillsBuild" (https://img.shields.io/badge/IBM-SkillsBuild-blue?style=for-the-badge&logo=ibm)" (https://skills.yourlearning.ibm.com/certificate/share/318de27da3ewogICJvYmplY3RJZCIgOiAiVVJMLTY2NzAxMkEwOUZDOCIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAibGVhcm5lckNOVU0iIDogIjc3NzYzMTFSRUciCn05b0a77c7a6-10)
