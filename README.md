@@ -33,8 +33,8 @@
 ---
 
 ## 🤝 Open Source Contributions
-- 🔧 [pyfenn/fenn](https://github.com/pyfenn/fenn) — Added dark mode 
-support to dashboard frontend
+- 🔀 [pyfenn/fenn](https://github.com/pyfenn/fenn) — ✅ Merged: Added dark mode support to dashboard frontend
+- 🔀 [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) — ⏳ PR under review: Added Common Errors & Troubleshooting section to README
 
 ---
 
