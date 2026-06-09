@@ -28,7 +28,7 @@
 
 ## 🚀 Projects
 - 🔬 [SkinSense AI](https://github.com/sashmithagandhi/SkinSense-AI) — AI-powered skincare recommendation app
-- 🌑 [belong.ai](https://github.com/sashmithagandhi/belong.ai) — Emotionally intelligent anonymous human connection ecosystem
+- 🌑 [belong.ai](https://github.com/sashmithagandhi/belong.ai) — Emotionally intelligent anonymous human connection ecosystem | V5.0 Live | [Demo](https://belongai-sasasa.streamlit.app)
 
 ---
 
