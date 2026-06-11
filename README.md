@@ -7,10 +7,7 @@
 ---
 
 ## 🎯 About Me
-- 🔬 Aspiring **AI/ML Engineer** who loves building creative tech
-- 🌱 Currently learning **Machine Learning, Deep Learning & NLP**
-- 💡 Believer in learning by building
-- ⚡ Fun fact: I turn ideas into AI-powered apps!
+- 🔬 Aspiring **AI PM** who loves planning creative product
 
 ---
 
