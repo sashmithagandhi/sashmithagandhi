@@ -32,7 +32,8 @@
 ## 🤝 Open Source Contributions
 - 🔀 [pyfenn/fenn](https://github.com/pyfenn/fenn) — ✅ Merged: Added dark mode support to dashboard frontend
 - 🔀 [rodrigo-arenas/Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) — ⏳ PR under review: Added Common Errors & Troubleshooting section to README
-
+- 📊 [mljar/mercury](https://github.com/mljar/mercury) — Added dark theme matplotlib plots tutorial
+  
 ---
 
 ## 🏆 Certifications
