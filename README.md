@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sashmithagandhi-portfolio.netlify.app">Portfolio</a> ·
   <a href="https://linkedin.com/in/sashmitha-gandhi">LinkedIn</a> ·
   <a href="https://youtube.com/@TheAIGirl">YouTube</a>
 </p>
