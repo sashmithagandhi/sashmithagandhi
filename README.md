@@ -24,8 +24,6 @@
 | **Newsbot-ai** | Multi-newspaper intelligence prototype that synthesizes reports from The Hindu, Times of India, Indian Express and NDTV into structured analysis. | [Code](https://github.com/sashmithagandhi/Newsbot-ai) · [Live](https://newsbot-ai.vercel.app) |
 | **Mosaic** | Collaborative project platform where students find teammates and build real-world projects together. | [Code](https://github.com/sashmithagandhi/mosaic) · [PRD](https://github.com/sashmithagandhi/mosaic-prd) |
 | **Cry My Resume** | AI resume reviewer with recruiter-style personas, a brutality dial, readiness feedback and actionable improvements. | [Code](https://github.com/sashmithagandhi/cry-my-resume) |
-| **SkinSense AI** | Rule-based skincare recommendation app built with Streamlit. | [Code](https://github.com/sashmithagandhi/SkinSense-AI) · [Live](https://skinsense-ai-sashmitha.streamlit.app) |
-| **belong.ai** | Anonymous human-connection concept exploring how AI can help people find supportive communities without replacing human connection. | [Code](https://github.com/sashmithagandhi/belong.ai) · [Live](https://belongai-sasasa.streamlit.app) |
 
 ## Product approach
 
