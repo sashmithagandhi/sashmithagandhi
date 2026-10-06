@@ -43,7 +43,7 @@
 - Supporting growth research, prospect analysis and outreach systems.
 
 **AI Product Manager Intern, Growth Nova AI** (Jul – Aug 2026)
-- Ran 10 user interviews to surface AI skill-gap and ATS-visibility problems.
+- Ran 12–15 user interviews to surface AI skill-gap and ATS-visibility problems.
 - Wrote the PRD and MVP for an AI career-readiness product combining resume-vs-JD gap analysis and AI mock interviews.
 - Built and tested the product concept through a landing-page/fake-door experiment.
 
