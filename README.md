@@ -21,7 +21,7 @@
 | Project | What it does | Links |
 |---|---|---|
 | **Newsbot-ai** | Multi-newspaper intelligence prototype that synthesizes reports from The Hindu, Times of India, Indian Express and NDTV into structured analysis. | [Code](https://github.com/sashmithagandhi/Newsbot-ai) · [Live](https://newsbot-ai.vercel.app) |
-| **Mosaic** | Collaborative project platform where students find teammates and build real-world projects together. | [Code](https://github.com/sashmithagandhi/mosaic) · [PRD](https://github.com/sashmithagandhi/mosaic-prd) |
+| **Mosaic** | Collaborative project platform where students find teammates and build real-world projects together. | [Code](https://github.com/sashmithagandhi/mosaic) |
 | **Cry My Resume** | AI resume reviewer with recruiter-style personas, a brutality dial, readiness feedback and actionable improvements. | [Code](https://github.com/sashmithagandhi/cry-my-resume) |
 
 ## Product approach
